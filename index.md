@@ -24,8 +24,7 @@ homepage:
 
 - 熟练使用HTML、CSS，掌握Flex、grid的常用页面布局。
 - 熟悉JavaScript基本特性，理解JS原型与原型链、闭包等概念，熟悉promise、async/await等ES6新特性。
-- **熟练使用Vue全家桶(Pinia/VueX/Vue-Router/Axios),开发后台管理系统**，与团队成员能进行有效的团队合作和清晰技术概念沟通。
-- 熟练使用**Vue3+TS+Element--plus**进行开发，在项目中能运用**TypeScript、Less、Sass**进行开发。
+- 熟练使用**Vue3全家桶+TS+Element--plus**进行开发，在项目中能运用**TypeScript、Less、Sass**进行开发。
 - 开发中会对工具函数进行封装(**Axios二次封装，ECharts图表二次封装**)。
 - 在开发中能使用**eslint+prettier**规范代码规范，使用**husky**对Git版本管理提交注释进行规范。
 - 了解Webpack、vite等前端工程化工具。
@@ -46,7 +45,7 @@ homepage:
 - 使用**vue-office**实现组员word文档周报的预览。
 
 ### **个人博客** *前端开发* `2022/09-至今`
-**项目简介:** 博客功能有搜索、评论区、工具导航、图片预览、一些小动画，博客中会编写Vue组件当做demo来演示。
+**项目简介:** 博客功能有搜索、评论、工具导航、图片预览、小动画，博客中会编写Vue组件当做demo来演示。
 
 **技术栈:** Vitepress+Vue3+Vite+TS+Less
 
@@ -57,5 +56,4 @@ homepage:
 
 ## 自我评价
 - 经常浏览开源社区以及技术论坛，如Github，stack overflow，掘金等，能通过官方文档进行学习。
-- 具有良好的编码习惯和记录学习笔记，有一定的自主解决问题的能力。
 - 热爱前端开发、立志于深耕前端领域的技术，有上进心，能承受一定的工作压力。
