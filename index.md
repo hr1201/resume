@@ -35,7 +35,9 @@ homepage:
 
 ### **萝卜项管后台管理系统** *前端开发* `2023/09`
 **项目简介:** 用来管理萝卜项管小程序，后台可以用来管理队员的crud、管理队员动态、以及预览队员的word文档周报、统计队员本周钉钉打卡时长。
+
 **技术栈:** Vue3+Vite+TS+Element-Plus+Pinia+Axios+Vue-Router+Echarts
+
 **主要职责:** 
 - **首页大屏使用Echarts图表**实现大屏服务，组件销毁前注销Echarts实例，防止内存泄漏。
 - 实现**Axios**封装，封装token请求头，设置baseURL和vite的proxy配置联合实现跨域。
@@ -45,7 +47,9 @@ homepage:
 
 ### **个人博客** *前端开发* `2022/09-至今`
 **项目简介:** 博客功能有搜索、评论区、工具导航、图片预览、一些小动画，博客中会编写Vue组件当做demo来演示。
+
 **技术栈:** Vitepress+Vue3+Vite+TS+Less
+
 **项目难点:** 
 - 实现自动生成侧边栏，使用**directory-tree**和**递归**获取到目录下的所有md文件，生成相应侧边栏结构。
 - 对于md文件的crud时热更新，用vite的configureServer的watcher监听文件变化，变化时用restart重新加载。
